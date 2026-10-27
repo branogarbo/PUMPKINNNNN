@@ -1,0 +1,19 @@
+curl --url ^"https://schnepffarms.ticketspice.com/api/lookup/inventory^" ^
+  -H ^"accept: */*^" ^
+  -H ^"accept-language: en-US,en;q=0.9^" ^
+  -H ^"authorization: Simple token=^\^"c28db3ac03344ffc95a74d9a2e266002^\^"^" ^
+  -H ^"cache-control: no-cache^" ^
+  -b ^"_ga=GA1.1.931665322.1793128057; cee47c4b1fbf44e8a58949b6e9b57e31=1793128057555; token=ea1679544511460f9935801fe9abf5ea; cf_clearance=KOoXlw.tORhOFN177I6LAOYSXrQG3gc9HEh.96ocEco-1793129201-1.2.1.1-3Q9X1Lgi5I.5R.gyCGT4HZ_h0VTlgAPkuFVDXj4Lrsqg5yi0b9AdmJOZcl8osLrA6FzwdBMsjiYn3Cg0aPnAGDR_9YPFkkDhVzyb_ta15mPm8dOiwCRy_oPH3NwF9rNsjm4MgZIhUZ93Ayuw7CVYe3mPG9i6Y45PeWoA.9MtOWBk86U13KuO3gAmdcYs1m8Tr1W5OTbwc_L36ua6AMtl0Fkk10PwVSeC4tRrHjSWdaxgHyy6CyPbY4u_IGknjPYkkDpgIlNYZDzyFkZF4tEzq5hTrm_eIH9ZIK3HBf5T3Lw0Vg2IbMvzCOg7eFLL3xV4mi8iULFX24_pOv1pv4VeO5bKE3cJUlQOT6n_m9_c.W4; __cf_bm=wcpD8eT4P7hUpQr_iNJXpv76FTnM_P8ca590_oE30Qg-1793129201.45108-1.0.1.1-S5ftcHbCXDTd1_tQpuB.ksFLPtJ1b5dxIFpX92xIgIJZsx_PqYyREY0BFqNhjAXcbK_XgpYbId1f0X35GdXrSp_Mm9zTxpdQr28ceQbYsQCFXos8uk9JpEugfzhUC8dx; _ga_75ZWMV4Z4P=GS2.1.s1793128057^$o1^$g1^$t1793129272^$j60^$l0^$h0; _dd_s=aid=63cb6d47-c625-4da0-a061-30026a343aa4^&logs=1^&id=d2dff6a5-64e0-4f3b-a90a-67b61b8ff1a6^&created=1793129201313^&expire=1793130178897^&rum=1^" ^
+  -H ^"pragma: no-cache^" ^
+  -H ^"priority: u=1, i^" ^
+  -H ^"referer: https://schnepffarms.ticketspice.com/schnepf-farms-pumpkin-chili-party^" ^
+  -H ^"sec-ch-ua: ^\^"Microsoft Edge^\^";v=^\^"155^\^", ^\^"Chromium^\^";v=^\^"155^\^", ^\^"Not^(A:Brand^\^";v=^\^"24^\^"^" ^
+  -H ^"sec-ch-ua-mobile: ?0^" ^
+  -H ^"sec-ch-ua-platform: ^\^"Windows^\^"^" ^
+  -H ^"sec-fetch-dest: empty^" ^
+  -H ^"sec-fetch-mode: cors^" ^
+  -H ^"sec-fetch-site: same-origin^" ^
+  -H ^"user-agent: Mozilla/5.0 ^(Windows NT 10.0; Win64; x64^) AppleWebKit/537.36 ^(KHTML, like Gecko^) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0^" ^
+  -H ^"x-wbx-client-version: 8.1245.0^" ^
+  -H ^"x-wbx-form-hash: cee47c4b1fbf44e8a58949b6e9b57e31^" ^
+  -H ^"x-wbx-page-url: https://schnepffarms.ticketspice.com/schnepf-farms-pumpkin-chili-party^"

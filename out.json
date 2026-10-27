@@ -1,0 +1,3249 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "path": "tickets.adult",
+            "itemKey": "",
+            "total": 5500,
+            "quantity": 5500
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-01",
+            "total": 5500,
+            "quantity": 4955,
+            "sold": 545
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-01 19:00",
+            "total": 5500,
+            "quantity": 5495,
+            "sold": 5
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-02",
+            "total": 5500,
+            "quantity": 4205,
+            "sold": 1295
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-02 19:45",
+            "total": 5500,
+            "quantity": 5498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-03",
+            "total": 5500,
+            "quantity": 1978,
+            "sold": 3522
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-03 18:45",
+            "total": 5500,
+            "quantity": 5490,
+            "sold": 10
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-03 19:00",
+            "total": 5500,
+            "quantity": 5493,
+            "sold": 7
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-03 19:15",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-03 19:30",
+            "total": 5500,
+            "quantity": 5495,
+            "sold": 5
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-03 20:00",
+            "total": 5500,
+            "quantity": 5497,
+            "sold": 3
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-04",
+            "total": 5500,
+            "quantity": 3270,
+            "sold": 2230
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-04 18:30",
+            "total": 5500,
+            "quantity": 5498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-04 19:00",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-04 19:30",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-08",
+            "total": 5500,
+            "quantity": 3641,
+            "sold": 1859
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-08 18:30",
+            "total": 5500,
+            "quantity": 5492,
+            "sold": 8
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-08 19:30",
+            "total": 5500,
+            "quantity": 5498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-08 21:30",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-09",
+            "total": 5500,
+            "quantity": 1924,
+            "sold": 3576
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-09 19:00",
+            "total": 5500,
+            "quantity": 5497,
+            "sold": 3
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-09 20:00",
+            "total": 5500,
+            "quantity": 5498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-09 20:30",
+            "total": 5500,
+            "quantity": 5493,
+            "sold": 7
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-10",
+            "total": 7635,
+            "quantity": 0,
+            "sold": 7635
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-10 18:30",
+            "total": 5500,
+            "quantity": 5501,
+            "sold": -1
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-10 18:45",
+            "total": 5500,
+            "quantity": 5495,
+            "sold": 5
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-10 19:00",
+            "total": 5500,
+            "quantity": 5489,
+            "sold": 11
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-10 19:30",
+            "total": 5500,
+            "quantity": 5500
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-10 20:00",
+            "total": 5500,
+            "quantity": 5476,
+            "sold": 24
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-10 20:30",
+            "total": 5500,
+            "quantity": 5488,
+            "sold": 12
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-10 21:30",
+            "total": 5500,
+            "quantity": 5500
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-11",
+            "total": 5500,
+            "quantity": 1297,
+            "sold": 4203
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-11 18:30",
+            "total": 5500,
+            "quantity": 5494,
+            "sold": 6
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-11 19:30",
+            "total": 5500,
+            "quantity": 5495,
+            "sold": 5
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-11 20:15",
+            "total": 5500,
+            "quantity": 5498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-11 20:45",
+            "total": 5500,
+            "quantity": 5498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-15",
+            "total": 5500,
+            "quantity": 2080,
+            "sold": 3420
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-15 18:30",
+            "total": 5500,
+            "quantity": 5492,
+            "sold": 8
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-15 19:00",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-15 19:15",
+            "total": 5500,
+            "quantity": 5497,
+            "sold": 3
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-15 19:30",
+            "total": 5500,
+            "quantity": 5495,
+            "sold": 5
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-15 20:30",
+            "total": 5500,
+            "quantity": 5498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-16",
+            "total": 5968,
+            "quantity": 0,
+            "sold": 5968
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-16 18:45",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-16 19:00",
+            "total": 5500,
+            "quantity": 5491,
+            "sold": 9
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-16 19:15",
+            "total": 5500,
+            "quantity": 5497,
+            "sold": 3
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-16 19:30",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-16 20:00",
+            "total": 5500,
+            "quantity": 5493,
+            "sold": 7
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-17",
+            "total": 7968,
+            "quantity": 0,
+            "sold": 7968
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-17 18:30",
+            "total": 5500,
+            "quantity": 5500
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-17 19:00",
+            "total": 5500,
+            "quantity": 5494,
+            "sold": 6
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-17 20:00",
+            "total": 5500,
+            "quantity": 5472,
+            "sold": 28
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-17 21:00",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-18",
+            "total": 6972,
+            "quantity": 0,
+            "sold": 6972
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-18 19:00",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-18 19:15",
+            "total": 5500,
+            "quantity": 5498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-18 20:00",
+            "total": 5500,
+            "quantity": 5494,
+            "sold": 6
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-18 20:30",
+            "total": 5500,
+            "quantity": 5495,
+            "sold": 5
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-22",
+            "total": 5500,
+            "quantity": 1577,
+            "sold": 3923
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-22 18:30",
+            "total": 5500,
+            "quantity": 5490,
+            "sold": 10
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-22 19:00",
+            "total": 5500,
+            "quantity": 5498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-22 19:30",
+            "total": 5500,
+            "quantity": 5497,
+            "sold": 3
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-23",
+            "total": 6963,
+            "quantity": 0,
+            "sold": 6963
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-24",
+            "total": 6990,
+            "quantity": 3,
+            "sold": 6987
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-24 18:30",
+            "total": 5500,
+            "quantity": 5481,
+            "sold": 19
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-24 18:45",
+            "total": 5500,
+            "quantity": 5499,
+            "sold": 1
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-24 19:00",
+            "total": 5500,
+            "quantity": 5500
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-24 19:30",
+            "total": 5500,
+            "quantity": 5488,
+            "sold": 12
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-24 20:00",
+            "total": 5500,
+            "quantity": 5498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-24 20:15",
+            "total": 5500,
+            "quantity": 5497,
+            "sold": 3
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-24 20:30",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-25",
+            "total": 6977,
+            "quantity": 0,
+            "sold": 6977
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-25 18:30",
+            "total": 5500,
+            "quantity": 5487,
+            "sold": 13
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-25 18:45",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-25 19:00",
+            "total": 5500,
+            "quantity": 5498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-25 19:15",
+            "total": 5500,
+            "quantity": 5500
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-25 20:00",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-25 20:30",
+            "total": 5500,
+            "quantity": 5498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-29",
+            "total": 5500,
+            "quantity": 1617,
+            "sold": 3883
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-29 19:30",
+            "total": 5500,
+            "quantity": 5496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-29 20:45",
+            "total": 5500,
+            "quantity": 5494,
+            "sold": 6
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-30",
+            "total": 5595,
+            "quantity": 0,
+            "sold": 5595
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-30 19:00",
+            "total": 5500,
+            "quantity": 5493,
+            "sold": 7
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-30 19:30",
+            "total": 5500,
+            "quantity": 5497,
+            "sold": 3
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-30 21:00",
+            "total": 5500,
+            "quantity": 5494,
+            "sold": 6
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-31",
+            "total": 5500,
+            "quantity": 1372,
+            "sold": 4128
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-31 19:30",
+            "total": 5500,
+            "quantity": 5495,
+            "sold": 5
+        },
+        {
+            "path": "tickets.adult",
+            "itemKey": "2026-10-31 20:00",
+            "total": 5500,
+            "quantity": 5494,
+            "sold": 6
+        },
+        {
+            "path": "tickets.anydayTicket",
+            "itemKey": "",
+            "total": 0,
+            "quantity": 0
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "",
+            "total": 24,
+            "quantity": 24
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-01",
+            "total": 24,
+            "quantity": 22,
+            "sold": 2
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-02",
+            "total": 24,
+            "quantity": 21,
+            "sold": 3
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-03",
+            "total": 24,
+            "quantity": 19,
+            "sold": 5
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-04",
+            "total": 24,
+            "quantity": 23,
+            "sold": 1
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-08",
+            "total": 24,
+            "quantity": 22,
+            "sold": 2
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-09",
+            "total": 24,
+            "quantity": 16,
+            "sold": 8
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-10",
+            "total": 24,
+            "quantity": 6,
+            "sold": 18
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-11",
+            "total": 24,
+            "quantity": 17,
+            "sold": 7
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-14",
+            "total": 24,
+            "quantity": 20,
+            "sold": 4
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-15",
+            "total": 24,
+            "quantity": 20,
+            "sold": 4
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-16",
+            "total": 24,
+            "quantity": 17,
+            "sold": 7
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-17",
+            "total": 28,
+            "quantity": 0,
+            "sold": 28
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-18",
+            "total": 24,
+            "quantity": 16,
+            "sold": 8
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-21",
+            "total": 24,
+            "quantity": 22,
+            "sold": 2
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-22",
+            "total": 24,
+            "quantity": 20,
+            "sold": 4
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-23",
+            "total": 24,
+            "quantity": 1,
+            "sold": 23
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-24",
+            "total": 26,
+            "quantity": 0,
+            "sold": 26
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-25",
+            "total": 24,
+            "quantity": 9,
+            "sold": 15
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-28",
+            "total": 24,
+            "quantity": 21,
+            "sold": 3
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-29",
+            "total": 24,
+            "quantity": 19,
+            "sold": 5
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-30",
+            "total": 24,
+            "quantity": 5,
+            "sold": 19
+        },
+        {
+            "path": "tickets.bonfireReservations",
+            "itemKey": "2026-10-31",
+            "total": 24,
+            "quantity": 13,
+            "sold": 11
+        },
+        {
+            "path": "tickets.duelSeasonPass",
+            "itemKey": "",
+            "total": 3,
+            "quantity": 0,
+            "sold": 3
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "",
+            "total": 400,
+            "quantity": 400
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-01",
+            "total": 400,
+            "quantity": 383,
+            "sold": 17
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-02",
+            "total": 400,
+            "quantity": 362,
+            "sold": 38
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-03",
+            "total": 400,
+            "quantity": 316,
+            "sold": 84
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-04",
+            "total": 400,
+            "quantity": 354,
+            "sold": 46
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-07",
+            "total": 400,
+            "quantity": 386,
+            "sold": 14
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-07 19:15",
+            "total": 400,
+            "quantity": 400
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-08",
+            "total": 400,
+            "quantity": 368,
+            "sold": 32
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-09",
+            "total": 400,
+            "quantity": 296,
+            "sold": 104
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-10",
+            "total": 400,
+            "quantity": 226,
+            "sold": 174
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-11",
+            "total": 400,
+            "quantity": 258,
+            "sold": 142
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-14",
+            "total": 400,
+            "quantity": 390,
+            "sold": 10
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-15",
+            "total": 400,
+            "quantity": 376,
+            "sold": 24
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-16",
+            "total": 400,
+            "quantity": 371,
+            "sold": 29
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-16 19:30",
+            "total": 400,
+            "quantity": 399,
+            "sold": 1
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-17",
+            "total": 400,
+            "quantity": 287,
+            "sold": 113
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-18",
+            "total": 400,
+            "quantity": 351,
+            "sold": 49
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-21",
+            "total": 400,
+            "quantity": 397,
+            "sold": 3
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-22",
+            "total": 400,
+            "quantity": 395,
+            "sold": 5
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-23",
+            "total": 400,
+            "quantity": 386,
+            "sold": 14
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-24",
+            "total": 400,
+            "quantity": 345,
+            "sold": 55
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-25",
+            "total": 400,
+            "quantity": 374,
+            "sold": 26
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-28",
+            "total": 400,
+            "quantity": 398,
+            "sold": 2
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-29",
+            "total": 400,
+            "quantity": 395,
+            "sold": 5
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-30",
+            "total": 400,
+            "quantity": 388,
+            "sold": 12
+        },
+        {
+            "path": "tickets.family4packExperience",
+            "itemKey": "2026-10-31",
+            "total": 400,
+            "quantity": 386,
+            "sold": 14
+        },
+        {
+            "path": "tickets.generalAdmissionBoxOffice",
+            "itemKey": "",
+            "total": 2000,
+            "quantity": 2000
+        },
+        {
+            "path": "tickets.generalAdmissionBoxOffice",
+            "itemKey": "2026-10-14",
+            "total": 2000,
+            "quantity": 1984,
+            "sold": 16
+        },
+        {
+            "path": "tickets.generalAdmissionBoxOffice",
+            "itemKey": "2026-10-16",
+            "total": 2000,
+            "quantity": 1960,
+            "sold": 40
+        },
+        {
+            "path": "tickets.generalAdmissionBoxOffice",
+            "itemKey": "2026-10-17",
+            "total": 2000,
+            "quantity": 1697,
+            "sold": 303
+        },
+        {
+            "path": "tickets.generalAdmissionBoxOffice",
+            "itemKey": "2026-10-18",
+            "total": 2000,
+            "quantity": 1538,
+            "sold": 462
+        },
+        {
+            "path": "tickets.generalAdmissionBoxOffice",
+            "itemKey": "2026-10-21",
+            "total": 2000,
+            "quantity": 1978,
+            "sold": 22
+        },
+        {
+            "path": "tickets.generalAdmissionBoxOffice",
+            "itemKey": "2026-10-23",
+            "total": 2000,
+            "quantity": 1927,
+            "sold": 73
+        },
+        {
+            "path": "tickets.generalAdmissionBoxOffice",
+            "itemKey": "2026-10-24",
+            "total": 2000,
+            "quantity": 1693,
+            "sold": 307
+        },
+        {
+            "path": "tickets.generalAdmissionBoxOffice",
+            "itemKey": "2026-10-25",
+            "total": 2000,
+            "quantity": 1500,
+            "sold": 500
+        },
+        {
+            "path": "tickets.generalAdmissionBoxOffice",
+            "itemKey": "2026-10-31",
+            "total": 2000,
+            "quantity": 1999,
+            "sold": 1
+        },
+        {
+            "path": "tickets.generalAdmissionWednesdayNight",
+            "itemKey": "",
+            "total": 4500,
+            "quantity": 4500
+        },
+        {
+            "path": "tickets.generalAdmissionWednesdayNight",
+            "itemKey": "2026-10-07",
+            "total": 4500,
+            "quantity": 3415,
+            "sold": 1085
+        },
+        {
+            "path": "tickets.generalAdmissionWednesdayNight",
+            "itemKey": "2026-10-07 19:00",
+            "total": 4500,
+            "quantity": 4498,
+            "sold": 2
+        },
+        {
+            "path": "tickets.generalAdmissionWednesdayNight",
+            "itemKey": "2026-10-14",
+            "total": 4500,
+            "quantity": 2012,
+            "sold": 2488
+        },
+        {
+            "path": "tickets.generalAdmissionWednesdayNight",
+            "itemKey": "2026-10-14 18:45",
+            "total": 4500,
+            "quantity": 4500
+        },
+        {
+            "path": "tickets.generalAdmissionWednesdayNight",
+            "itemKey": "2026-10-14 19:30",
+            "total": 4500,
+            "quantity": 4496,
+            "sold": 4
+        },
+        {
+            "path": "tickets.generalAdmissionWednesdayNight",
+            "itemKey": "2026-10-21",
+            "total": 4500,
+            "quantity": 2028,
+            "sold": 2472
+        },
+        {
+            "path": "tickets.generalAdmissionWednesdayNight",
+            "itemKey": "2026-10-28",
+            "total": 4500,
+            "quantity": 1821,
+            "sold": 2679
+        },
+        {
+            "path": "tickets.pumpkinChiliPartySeason",
+            "itemKey": "",
+            "total": 394,
+            "quantity": 0,
+            "sold": 394
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "",
+            "total": 70,
+            "quantity": 70
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-01 18:30",
+            "total": 70,
+            "quantity": 58,
+            "sold": 12
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-01 19:00",
+            "total": 70,
+            "quantity": 31,
+            "sold": 39
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-01 19:15",
+            "total": 70,
+            "quantity": 64,
+            "sold": 6
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-01 19:30",
+            "total": 70,
+            "quantity": 35,
+            "sold": 35
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-01 19:45",
+            "total": 70,
+            "quantity": 70
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-01 20:00",
+            "total": 70,
+            "quantity": 56,
+            "sold": 14
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-01 20:30",
+            "total": 70,
+            "quantity": 54,
+            "sold": 16
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-02 18:30",
+            "total": 70,
+            "quantity": 37,
+            "sold": 33
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-02 18:45",
+            "total": 70,
+            "quantity": 44,
+            "sold": 26
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-02 19:00",
+            "total": 70,
+            "quantity": 61,
+            "sold": 9
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-02 19:15",
+            "total": 70,
+            "quantity": 62,
+            "sold": 8
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-02 19:30",
+            "total": 70,
+            "quantity": 40,
+            "sold": 30
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-02 19:45",
+            "total": 70,
+            "quantity": 50,
+            "sold": 20
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-02 20:00",
+            "total": 70,
+            "quantity": 41,
+            "sold": 29
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-02 20:30",
+            "total": 70,
+            "quantity": 62,
+            "sold": 8
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-02 21:00",
+            "total": 70,
+            "quantity": 62,
+            "sold": 8
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-03 18:30",
+            "total": 70,
+            "quantity": 2,
+            "sold": 68
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-03 18:45",
+            "total": 70,
+            "quantity": 35,
+            "sold": 35
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-03 19:00",
+            "total": 108,
+            "quantity": 0,
+            "sold": 108
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-03 19:15",
+            "total": 70,
+            "quantity": 43,
+            "sold": 27
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-03 19:30",
+            "total": 109,
+            "quantity": 0,
+            "sold": 109
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-03 19:45",
+            "total": 70,
+            "quantity": 17,
+            "sold": 53
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-03 20:00",
+            "total": 100,
+            "quantity": 0,
+            "sold": 100
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-03 20:30",
+            "total": 70,
+            "quantity": 36,
+            "sold": 34
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-03 20:45",
+            "total": 70,
+            "quantity": 68,
+            "sold": 2
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-03 21:00",
+            "total": 70,
+            "quantity": 51,
+            "sold": 19
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-03 21:30",
+            "total": 70,
+            "quantity": 70
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-03 21:45",
+            "total": 70,
+            "quantity": 63,
+            "sold": 7
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-04 18:30",
+            "total": 70,
+            "quantity": 11,
+            "sold": 59
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-04 18:45",
+            "total": 70,
+            "quantity": 27,
+            "sold": 43
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-04 19:00",
+            "total": 70,
+            "quantity": 5,
+            "sold": 65
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-04 19:15",
+            "total": 70,
+            "quantity": 46,
+            "sold": 24
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-04 19:30",
+            "total": 70,
+            "quantity": 5,
+            "sold": 65
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-04 19:45",
+            "total": 70,
+            "quantity": 57,
+            "sold": 13
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-04 20:00",
+            "total": 70,
+            "quantity": 44,
+            "sold": 26
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-04 20:15",
+            "total": 70,
+            "quantity": 60,
+            "sold": 10
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-04 20:30",
+            "total": 70,
+            "quantity": 40,
+            "sold": 30
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-04 20:45",
+            "total": 70,
+            "quantity": 58,
+            "sold": 12
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-07 18:30",
+            "total": 70,
+            "quantity": 55,
+            "sold": 15
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-07 18:45",
+            "total": 70,
+            "quantity": 52,
+            "sold": 18
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-07 19:00",
+            "total": 70,
+            "quantity": 17,
+            "sold": 53
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-07 19:15",
+            "total": 70,
+            "quantity": 57,
+            "sold": 13
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-07 19:30",
+            "total": 70,
+            "quantity": 48,
+            "sold": 22
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-07 19:45",
+            "total": 70,
+            "quantity": 61,
+            "sold": 9
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-07 20:00",
+            "total": 70,
+            "quantity": 39,
+            "sold": 31
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-07 20:30",
+            "total": 70,
+            "quantity": 67,
+            "sold": 3
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-07 20:45",
+            "total": 70,
+            "quantity": 65,
+            "sold": 5
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-08 18:30",
+            "total": 70,
+            "quantity": 23,
+            "sold": 47
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-08 18:45",
+            "total": 70,
+            "quantity": 60,
+            "sold": 10
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-08 19:00",
+            "total": 74,
+            "quantity": 0,
+            "sold": 74
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-08 19:15",
+            "total": 70,
+            "quantity": 53,
+            "sold": 17
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-08 19:30",
+            "total": 76,
+            "quantity": 0,
+            "sold": 76
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-08 19:45",
+            "total": 70,
+            "quantity": 41,
+            "sold": 29
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-08 20:00",
+            "total": 70,
+            "quantity": 8,
+            "sold": 62
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-08 20:15",
+            "total": 70,
+            "quantity": 66,
+            "sold": 4
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-08 20:30",
+            "total": 70,
+            "quantity": 56,
+            "sold": 14
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-08 20:45",
+            "total": 70,
+            "quantity": 62,
+            "sold": 8
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 18:30",
+            "total": 70,
+            "quantity": 17,
+            "sold": 53
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 18:45",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 19:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 19:15",
+            "total": 73,
+            "quantity": 0,
+            "sold": 73
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 19:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 19:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 20:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 20:15",
+            "total": 70,
+            "quantity": 5,
+            "sold": 65
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 20:30",
+            "total": 70,
+            "quantity": 35,
+            "sold": 35
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 20:45",
+            "total": 70,
+            "quantity": 65,
+            "sold": 5
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 21:00",
+            "total": 70,
+            "quantity": 68,
+            "sold": 2
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 21:15",
+            "total": 70,
+            "quantity": 59,
+            "sold": 11
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-09 21:30",
+            "total": 70,
+            "quantity": 68,
+            "sold": 2
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 18:30",
+            "total": 89,
+            "quantity": 0,
+            "sold": 89
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 18:45",
+            "total": 76,
+            "quantity": 0,
+            "sold": 76
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 19:00",
+            "total": 109,
+            "quantity": 0,
+            "sold": 109
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 19:15",
+            "total": 74,
+            "quantity": 0,
+            "sold": 74
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 19:30",
+            "total": 94,
+            "quantity": 0,
+            "sold": 94
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 19:45",
+            "total": 75,
+            "quantity": 0,
+            "sold": 75
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 20:00",
+            "total": 101,
+            "quantity": 0,
+            "sold": 101
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 20:15",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 20:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 20:45",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 21:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 21:15",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 21:30",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-10 21:45",
+            "total": 70,
+            "quantity": 26,
+            "sold": 44
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-11 18:30",
+            "total": 79,
+            "quantity": 0,
+            "sold": 79
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-11 18:45",
+            "total": 76,
+            "quantity": 0,
+            "sold": 76
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-11 19:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-11 19:15",
+            "total": 77,
+            "quantity": 0,
+            "sold": 77
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-11 19:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-11 19:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-11 20:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-11 20:15",
+            "total": 70,
+            "quantity": 25,
+            "sold": 45
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-11 20:30",
+            "total": 70,
+            "quantity": 18,
+            "sold": 52
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-11 20:45",
+            "total": 70,
+            "quantity": 62,
+            "sold": 8
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-14 18:30",
+            "total": 79,
+            "quantity": 0,
+            "sold": 79
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-14 18:45",
+            "total": 77,
+            "quantity": 0,
+            "sold": 77
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-14 19:00",
+            "total": 79,
+            "quantity": 0,
+            "sold": 79
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-14 19:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-14 19:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-14 19:45",
+            "total": 70,
+            "quantity": 24,
+            "sold": 46
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-14 20:00",
+            "total": 70,
+            "quantity": 24,
+            "sold": 46
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-14 20:15",
+            "total": 70,
+            "quantity": 63,
+            "sold": 7
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-14 20:30",
+            "total": 70,
+            "quantity": 19,
+            "sold": 51
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-14 20:45",
+            "total": 70,
+            "quantity": 56,
+            "sold": 14
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-15 18:30",
+            "total": 77,
+            "quantity": 0,
+            "sold": 77
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-15 18:45",
+            "total": 70,
+            "quantity": 12,
+            "sold": 58
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-15 19:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-15 19:15",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-15 19:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-15 19:45",
+            "total": 70,
+            "quantity": 59,
+            "sold": 11
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-15 20:00",
+            "total": 70,
+            "quantity": 17,
+            "sold": 53
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-15 20:15",
+            "total": 70,
+            "quantity": 51,
+            "sold": 19
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-15 20:30",
+            "total": 70,
+            "quantity": 37,
+            "sold": 33
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-15 20:45",
+            "total": 70,
+            "quantity": 64,
+            "sold": 6
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 18:30",
+            "total": 73,
+            "quantity": 0,
+            "sold": 73
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 18:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 19:00",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 19:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 19:30",
+            "total": 76,
+            "quantity": 0,
+            "sold": 76
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 19:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 20:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 20:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 20:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 20:45",
+            "total": 79,
+            "quantity": 0,
+            "sold": 79
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 21:00",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 21:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 21:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-16 21:45",
+            "total": 70,
+            "quantity": 29,
+            "sold": 41
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 18:30",
+            "total": 108,
+            "quantity": 0,
+            "sold": 108
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 18:45",
+            "total": 110,
+            "quantity": 0,
+            "sold": 110
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 19:00",
+            "total": 109,
+            "quantity": 0,
+            "sold": 109
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 19:15",
+            "total": 105,
+            "quantity": 0,
+            "sold": 105
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 19:30",
+            "total": 110,
+            "quantity": 0,
+            "sold": 110
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 19:45",
+            "total": 109,
+            "quantity": 0,
+            "sold": 109
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 20:00",
+            "total": 110,
+            "quantity": 0,
+            "sold": 110
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 20:15",
+            "total": 108,
+            "quantity": 0,
+            "sold": 108
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 20:30",
+            "total": 110,
+            "quantity": 0,
+            "sold": 110
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 20:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 21:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 21:15",
+            "total": 77,
+            "quantity": 0,
+            "sold": 77
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 21:30",
+            "total": 76,
+            "quantity": 0,
+            "sold": 76
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-17 21:45",
+            "total": 79,
+            "quantity": 0,
+            "sold": 79
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-18 18:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-18 18:45",
+            "total": 77,
+            "quantity": 0,
+            "sold": 77
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-18 19:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-18 19:15",
+            "total": 74,
+            "quantity": 0,
+            "sold": 74
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-18 19:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-18 19:45",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-18 20:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-18 20:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-18 20:30",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-18 20:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-21 18:30",
+            "total": 73,
+            "quantity": 0,
+            "sold": 73
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-21 18:45",
+            "total": 70,
+            "quantity": 10,
+            "sold": 60
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-21 19:00",
+            "total": 70,
+            "quantity": 1,
+            "sold": 69
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-21 19:15",
+            "total": 70,
+            "quantity": 20,
+            "sold": 50
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-21 19:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-21 19:45",
+            "total": 70,
+            "quantity": 54,
+            "sold": 16
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-21 20:00",
+            "total": 70,
+            "quantity": 32,
+            "sold": 38
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-21 20:15",
+            "total": 70,
+            "quantity": 66,
+            "sold": 4
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-21 20:30",
+            "total": 70,
+            "quantity": 60,
+            "sold": 10
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-21 20:45",
+            "total": 70,
+            "quantity": 60,
+            "sold": 10
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-22 18:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-22 18:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-22 19:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-22 19:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-22 19:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-22 19:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-22 20:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-22 20:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-22 20:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-22 20:45",
+            "total": 70,
+            "quantity": 31,
+            "sold": 39
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 18:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 18:45",
+            "total": 77,
+            "quantity": 0,
+            "sold": 77
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 19:00",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 19:15",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 19:30",
+            "total": 105,
+            "quantity": 0,
+            "sold": 105
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 19:45",
+            "total": 77,
+            "quantity": 0,
+            "sold": 77
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 20:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 20:15",
+            "total": 74,
+            "quantity": 0,
+            "sold": 74
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 20:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 20:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 21:00",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 21:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 21:30",
+            "total": 76,
+            "quantity": 0,
+            "sold": 76
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-23 21:45",
+            "total": 73,
+            "quantity": 0,
+            "sold": 73
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 18:30",
+            "total": 106,
+            "quantity": 0,
+            "sold": 106
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 18:45",
+            "total": 98,
+            "quantity": 0,
+            "sold": 98
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 19:00",
+            "total": 108,
+            "quantity": 0,
+            "sold": 108
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 19:15",
+            "total": 106,
+            "quantity": 0,
+            "sold": 106
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 19:30",
+            "total": 107,
+            "quantity": 0,
+            "sold": 107
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 19:45",
+            "total": 94,
+            "quantity": 0,
+            "sold": 94
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 20:00",
+            "total": 105,
+            "quantity": 0,
+            "sold": 105
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 20:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 20:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 20:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 21:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 21:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 21:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-24 21:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-25 18:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-25 18:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-25 19:00",
+            "total": 88,
+            "quantity": 0,
+            "sold": 88
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-25 19:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-25 19:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-25 19:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-25 20:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-25 20:15",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-25 20:30",
+            "total": 73,
+            "quantity": 0,
+            "sold": 73
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-25 20:45",
+            "total": 76,
+            "quantity": 0,
+            "sold": 76
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-28 18:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-28 18:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-28 19:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-28 19:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-28 19:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-28 19:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-28 20:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-28 20:15",
+            "total": 70,
+            "quantity": 0,
+            "sold": 70
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-28 20:30",
+            "total": 70,
+            "quantity": 0,
+            "sold": 70
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-28 20:45",
+            "total": 70,
+            "quantity": 44,
+            "sold": 26
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-29 18:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-29 18:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-29 19:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-29 19:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-29 19:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-29 19:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-29 20:00",
+            "total": 79,
+            "quantity": 0,
+            "sold": 79
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-29 20:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-29 20:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-29 20:45",
+            "total": 73,
+            "quantity": 0,
+            "sold": 73
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 18:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 18:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 19:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 19:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 19:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 19:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 20:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 20:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 20:30",
+            "total": 79,
+            "quantity": 0,
+            "sold": 79
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 20:45",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 21:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 21:15",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 21:30",
+            "total": 79,
+            "quantity": 0,
+            "sold": 79
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-30 21:45",
+            "total": 79,
+            "quantity": 0,
+            "sold": 79
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 18:30",
+            "total": 77,
+            "quantity": 0,
+            "sold": 77
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 18:45",
+            "total": 70,
+            "quantity": 49,
+            "sold": 21
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 19:00",
+            "total": 78,
+            "quantity": 0,
+            "sold": 78
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 19:15",
+            "total": 70,
+            "quantity": 29,
+            "sold": 41
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 19:30",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 19:45",
+            "total": 70,
+            "quantity": 46,
+            "sold": 24
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 20:00",
+            "total": 80,
+            "quantity": 0,
+            "sold": 80
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 20:15",
+            "total": 70,
+            "quantity": 42,
+            "sold": 28
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 20:30",
+            "total": 70,
+            "quantity": 7,
+            "sold": 63
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 20:45",
+            "total": 70,
+            "quantity": 63,
+            "sold": 7
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 21:00",
+            "total": 70,
+            "quantity": 50,
+            "sold": 20
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 21:15",
+            "total": 70,
+            "quantity": 68,
+            "sold": 2
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 21:30",
+            "total": 70,
+            "quantity": 69,
+            "sold": 1
+        },
+        {
+            "path": "tickets.spookyTrainRide",
+            "itemKey": "2026-10-31 21:45",
+            "total": 70,
+            "quantity": 60,
+            "sold": 10
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "",
+            "total": 4000,
+            "quantity": 4000
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-01",
+            "total": 4000,
+            "quantity": 3953,
+            "sold": 47
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-02",
+            "total": 4000,
+            "quantity": 3914,
+            "sold": 86
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-03",
+            "total": 4000,
+            "quantity": 3717,
+            "sold": 283
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-04",
+            "total": 4000,
+            "quantity": 3872,
+            "sold": 128
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-04 18:30",
+            "total": 4000,
+            "quantity": 3998,
+            "sold": 2
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-07",
+            "total": 4000,
+            "quantity": 3968,
+            "sold": 32
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-08",
+            "total": 4000,
+            "quantity": 3857,
+            "sold": 143
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-08 18:30",
+            "total": 4000,
+            "quantity": 3998,
+            "sold": 2
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-09",
+            "total": 4000,
+            "quantity": 3825,
+            "sold": 175
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-10",
+            "total": 4000,
+            "quantity": 3277,
+            "sold": 723
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-11",
+            "total": 4000,
+            "quantity": 3643,
+            "sold": 357
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-11 20:15",
+            "total": 4000,
+            "quantity": 3998,
+            "sold": 2
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-14",
+            "total": 4000,
+            "quantity": 3838,
+            "sold": 162
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-15",
+            "total": 4000,
+            "quantity": 3726,
+            "sold": 274
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-16",
+            "total": 4000,
+            "quantity": 3472,
+            "sold": 528
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-16 18:45",
+            "total": 4000,
+            "quantity": 3996,
+            "sold": 4
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-16 19:30",
+            "total": 4000,
+            "quantity": 3996,
+            "sold": 4
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-17",
+            "total": 4000,
+            "quantity": 3081,
+            "sold": 919
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-18",
+            "total": 4000,
+            "quantity": 3094,
+            "sold": 906
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-21",
+            "total": 4000,
+            "quantity": 3878,
+            "sold": 122
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-22",
+            "total": 4000,
+            "quantity": 3741,
+            "sold": 259
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-23",
+            "total": 4000,
+            "quantity": 3495,
+            "sold": 505
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-24",
+            "total": 4000,
+            "quantity": 3124,
+            "sold": 876
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-25",
+            "total": 4000,
+            "quantity": 2953,
+            "sold": 1047
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-28",
+            "total": 4000,
+            "quantity": 3769,
+            "sold": 231
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-29",
+            "total": 4000,
+            "quantity": 3631,
+            "sold": 369
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-30",
+            "total": 4000,
+            "quantity": 3554,
+            "sold": 446
+        },
+        {
+            "path": "tickets.ticketLevelTwo",
+            "itemKey": "2026-10-31",
+            "total": 4000,
+            "quantity": 3462,
+            "sold": 538
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "",
+            "total": 300,
+            "quantity": 300
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-01",
+            "total": 300,
+            "quantity": 298,
+            "sold": 2
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-02",
+            "total": 300,
+            "quantity": 296,
+            "sold": 4
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-03",
+            "total": 300,
+            "quantity": 287,
+            "sold": 13
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-04",
+            "total": 300,
+            "quantity": 297,
+            "sold": 3
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-08",
+            "total": 300,
+            "quantity": 294,
+            "sold": 6
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-09",
+            "total": 300,
+            "quantity": 296,
+            "sold": 4
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-10",
+            "total": 300,
+            "quantity": 280,
+            "sold": 20
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-11",
+            "total": 300,
+            "quantity": 286,
+            "sold": 14
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-15",
+            "total": 300,
+            "quantity": 296,
+            "sold": 4
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-16",
+            "total": 300,
+            "quantity": 294,
+            "sold": 6
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-17",
+            "total": 300,
+            "quantity": 293,
+            "sold": 7
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-18",
+            "total": 300,
+            "quantity": 297,
+            "sold": 3
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-22",
+            "total": 300,
+            "quantity": 299,
+            "sold": 1
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-23",
+            "total": 300,
+            "quantity": 297,
+            "sold": 3
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-24",
+            "total": 300,
+            "quantity": 294,
+            "sold": 6
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-24 19:30",
+            "total": 300,
+            "quantity": 299,
+            "sold": 1
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-25",
+            "total": 300,
+            "quantity": 295,
+            "sold": 5
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-30",
+            "total": 300,
+            "quantity": 291,
+            "sold": 9
+        },
+        {
+            "path": "tickets.ultimateFamily4pack",
+            "itemKey": "2026-10-31",
+            "total": 300,
+            "quantity": 298,
+            "sold": 2
+        }
+    ]
+}
